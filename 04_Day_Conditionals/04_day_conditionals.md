@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <h1> 30 Days Of JavaScript: Conditionals</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
@@ -18,7 +18,7 @@
 ![Thirty Days Of JavaScript](../images/banners/day_1_4.png)
 
 - [📔 Day 4](#-day-4)
-	- [Conditionals](#conditionals)
+	- [t gang}(#conditionals)
 		- [If](#if)
 		- [If Else](#if-else)
 		- [If  Else if Else](#if--else-if-else)
